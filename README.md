@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-<img src="https://placehold.co/150x150/111827/34D399?text=Yo" alt="Foto de perfil" width="150" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/u/7826568?v=4" alt="Foto de perfil" width="150" style="border-radius:50%;">
 </p>
 
-👋 Acerca de Mí
-Ingeniero de software con más de 8 años de experiencia en el diseño, desarrollo y despliegue de aplicaciones web escalables y de alto rendimiento. Mi especialidad es crear soluciones robustas en el ecosistema de JavaScript, con un enfoque en la calidad del código, la arquitectura y la experiencia de usuario.
+👋 About me
+Over ten years of experience, specializing in building high-performance web applications with Angular, TypeScript, and RxJS. 
+My focus is on developing innovative and scalable solutions, optimizing performance to enhance user experience and positively impact business goals. Expert in state management with NGRX and implementing unit tests under TDD to ensure the highest code quality. A proactive and effective collaborator, dedicated to continuous improvement and applying best practices in cross functional teams.
 
 🚀 Proyectos Destacados
 <table>
@@ -72,5 +73,5 @@ Ingeniero de software con más de 8 años de experiencia en el diseño, desarrol
 </table>
 
 <p align="center">
-&copy; 2025 Tu Nombre Completo
+&copy; 2025 Arturo Casas Q.
 </p>
