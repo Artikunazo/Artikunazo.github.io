@@ -1,5 +1,5 @@
-Tu Nombre Completo
-Senior Software Engineer | Arquitecto Web | Apasionado por el Código Limpio
+<h1>Arturo Casas Q.</h1>
+Senior Software Engineer | Angular & TypeScript | Open to Freelance Projects & Consulting
 
 <p align="center">
 <a href="#" target="_blank"><strong>GitHub</strong></a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
