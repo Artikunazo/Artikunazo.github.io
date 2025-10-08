@@ -2,9 +2,9 @@
 Senior Software Engineer | Angular & TypeScript | Open to Freelance Projects & Consulting
 
 <p align="center">
-<a href="#" target="_blank"><strong>GitHub</strong></a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-<a href="#" target="_blank"><strong>LinkedIn</strong></a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
-<a href="#" target="_blank"><strong>Blog</strong></a>
+<a href="https://github.com/Artikunazo" target="_blank"><strong>GitHub</strong></a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arturocasasq/" target="_blank"><strong>LinkedIn</strong></a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+<!-- <a href="#" target="_blank"><strong>Blog</strong></a> -->
 </p>
 
 <p align="center">
