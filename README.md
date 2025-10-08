@@ -1,4 +1,4 @@
-<p aling="center">Senior Software Engineer | Angular & TypeScript | Open to Freelance Projects & Consulting</p>
+<p align="center">Senior Software Engineer | Angular & TypeScript | Open to Freelance Projects & Consulting</p>
 
 <p align="center">
 <a href="https://github.com/Artikunazo" target="_blank"><strong>GitHub</strong></a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
