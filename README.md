@@ -1,13 +1,13 @@
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/7826568?v=4" alt="Foto de perfil" width="150" style="border-radius:50%;">
+</p>
+
 <p align="center">Senior Software Engineer | Angular & TypeScript | Open to Freelance Projects & Consulting</p>
 
 <p align="center">
 <a href="https://github.com/Artikunazo" target="_blank"><strong>GitHub</strong></a> &nbsp;&nbsp;&middot;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arturocasasq/" target="_blank"><strong>LinkedIn</strong></a>
 <!-- <a href="#" target="_blank"><strong>Blog</strong></a> -->
-</p>
-
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/7826568?v=4" alt="Foto de perfil" width="150" style="border-radius:50%;">
 </p>
 
 👋 About me
