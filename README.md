@@ -10,7 +10,7 @@
 <!-- <a href="#" target="_blank"><strong>Blog</strong></a> -->
 </p>
 
-👋 About me
+👋 About me <br />
 Over ten years of experience, specializing in building high-performance web applications with Angular, TypeScript, and RxJS. 
 My focus is on developing innovative and scalable solutions, optimizing performance to enhance user experience and positively impact business goals. Expert in state management with NGRX and implementing unit tests under TDD to ensure the highest code quality. A proactive and effective collaborator, dedicated to continuous improvement and applying best practices in cross functional teams.
 
