@@ -23,23 +23,23 @@ My focus is on developing innovative and scalable solutions, optimizing performa
 <p>
 <code>Angular 20</code> <code>RxJs</code> <code>NGRX (Redux)</code> <code>TypeScript</code> <code>Java</code> <code>Springboot</code> <code>PostgreSQL</code> <code>Docker</code> 
 </p>
-<a href="#" target="_blank"><strong>View Project &rarr;</strong></a>
+<a href="https://dashboard-kanban-two.vercel.app/" target="_blank"><strong>View Project &rarr;</strong></a>
 </td>
 <td width="50%" valign="top">
-<h3>Nombre del Proyecto 2</h3>
-<p>Una breve descripción del proyecto. Enfócate en el problema que resolviste y el impacto que tuvo. Menciona tu rol específico.</p>
+<h3>Dummy Bank</h3>
+<p>Bank dummy application offers products such as: Car Loan, Mortgages and Credit Card. It was developed based on my banking experience. </p>
 <p>
-<code>Next.js</code> <code>GraphQL</code> <code>PostgreSQL</code>
+<code>Angular 20</code> <code>TypeScript</code> <code>Tailwind</code> <code>PrimeNG</code>
 </p>
-<a href="#" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
+<a href="https://artikunazo-dummybank.netlify.app/" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>Nombre del Proyecto 3</h3>
-<p>Una breve descripción del proyecto. Enfócate en el problema que resolviste y el impacto que tuvo. Menciona tu rol específico.</p>
+<h3>Shorter URL</h3>
+<p>Application for convert a URL more shorter based on ID. The ID of URL shorted can be validated and show original URL.</p>
 <p>
-<code>Python</code> <code>Django</code> <code>Docker</code>
+<code>Angular 17</code> <code>RxJs</code> <code>NGRX (Redux)</code> <code>TypeScript</code> <code>Java</code> <code>Springboot</code> <code>MySQL</code> <code>Docker</code> 
 </p>
 <a href="#" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
 </td>
