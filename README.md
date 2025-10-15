@@ -21,17 +21,17 @@ My focus is on developing innovative and scalable solutions, optimizing performa
 <h3>Kanban Dashboard</h3>
 <p>A fullstack application for managment tasks with Kanban metodology.</p>
 <p>
-<code>Angular 20</code> <code>RxJs</code> <code>NGRX (Redux)</code> <code>TypeScript</code> <code>Java</code> <code>Springboot</code> <code>PostgreSQL</code> <code>Docker</code> 
+<code>Angular 20</code> <code>RxJs</code> <code>NGRX (Redux)</code> <code>TypeScript</code> <code>PrimeNG</code> <code>Java</code> <code>Tailwind</code> <code>HTML</code> <code>CSS</code> <code>Springboot</code> <code>PostgreSQL</code> <code>Docker</code> 
 </p>
-<a href="https://dashboard-kanban-two.vercel.app/" target="_blank"><strong>View Project &rarr;</strong></a>
+<a href="https://dashboard-kanban-two.vercel.app/" target="_blank"><strong>View project &rarr;</strong></a>
 </td>
 <td width="50%" valign="top">
 <h3>Dummy Bank</h3>
 <p>Bank dummy application offers products such as: Car Loan, Mortgages and Credit Card. It was developed based on my banking experience. </p>
 <p>
-<code>Angular 20</code> <code>TypeScript</code> <code>Tailwind</code> <code>PrimeNG</code>
+<code>Angular 20</code> <code>TypeScript</code> <code>CSS</code> <code>HTML</code> <code>Tailwind</code> <code>PrimeNG</code>
 </p>
-<a href="https://artikunazo-dummybank.netlify.app/" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
+<a href="https://artikunazo-dummybank.netlify.app/" target="_blank"><strong>View project &rarr;</strong></a>
 </td>
 </tr>
 <tr>
@@ -41,33 +41,15 @@ My focus is on developing innovative and scalable solutions, optimizing performa
 <p>
 <code>Angular 17</code> <code>RxJs</code> <code>NGRX (Redux)</code> <code>TypeScript</code> <code>Java</code> <code>Springboot</code> <code>MySQL</code> <code>Docker</code> 
 </p>
-<a href="#" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
+<a href="https://github.com/Artikunazo/shorter-url" target="_blank"><strong>View project &rarr;</strong></a>
 </td>
 <td width="50%" valign="top">
-<h3>Nombre del Proyecto 4</h3>
-<p>Una breve descripción del proyecto. Enfócate en el problema que resolviste y el impacto que tuvo. Menciona tu rol específico.</p>
+<h3>GaryPixel Tech</h3>
+<p>Landing page for contact of consultancy GaryPixel Tech</p>
 <p>
-<code>Vue.js</code> <code>Firebase</code> <code>CI/CD</code>
+<code>Astro</code> <code>PHP</code> <code>Slim</code> 
 </p>
-<a href="#" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Nombre del Proyecto 5</h3>
-<p>Una breve descripción del proyecto. Enfócate en el problema que resolviste y el impacto que tuvo. Menciona tu rol específico.</p>
-<p>
-<code>WebSockets</code> <code>Redis</code> <code>Microservicios</code>
-</p>
-<a href="#" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>Nombre del Proyecto 6</h3>
-<p>Una breve descripción del proyecto. Enfócate en el problema que resolviste y el impacto que tuvo. Menciona tu rol específico.</p>
-<p>
-<code>AWS Lambda</code> <code>Serverless</code> <code>API Gateway</code>
-</p>
-<a href="#" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
+<a href="https://garypixeltech.com/" target="_blank"><strong>View project &rarr;</strong></a>
 </td>
 </tr>
 </table>
