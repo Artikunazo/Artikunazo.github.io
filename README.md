@@ -18,12 +18,12 @@ My focus is on developing innovative and scalable solutions, optimizing performa
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>Nombre del Proyecto 1</h3>
-<p>Una breve descripción del proyecto. Enfócate en el problema que resolviste y el impacto que tuvo. Menciona tu rol específico.</p>
+<h3>Kanban Dashboard</h3>
+<p>A fullstack application for managment tasks with Kanban metodology.</p>
 <p>
-<code>React</code> <code>TypeScript</code> <code>Node.js</code>
+<code>Angular 20</code> <code>RxJs</code> <code>NGRX (Redux)</code> <code>TypeScript</code> <code>Java</code> <code>Springboot</code> <code>PostgreSQL</code> <code>Docker</code> 
 </p>
-<a href="#" target="_blank"><strong>Ver Proyecto &rarr;</strong></a>
+<a href="#" target="_blank"><strong>View Project &rarr;</strong></a>
 </td>
 <td width="50%" valign="top">
 <h3>Nombre del Proyecto 2</h3>
