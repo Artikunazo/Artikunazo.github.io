@@ -1,3 +1,9 @@
+<style>
+  .markdown-body h1 {
+    text-align: center;
+  }
+</style>
+
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/7826568?v=4" alt="Foto de perfil" width="150" style="border-radius:50%;">
 </p>
