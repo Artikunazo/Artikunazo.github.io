@@ -42,14 +42,6 @@ My focus is on developing innovative and scalable solutions, optimizing performa
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>Shorter URL</h3>
-<p>Application for convert a URL more shorter based on ID. The ID of URL shorted can be validated and show original URL.</p>
-<p>
-<code>Angular 17</code> <code>RxJs</code> <code>NGRX (Redux)</code> <code>TypeScript</code> <code>Java</code> <code>Springboot</code> <code>MySQL</code> <code>Docker</code> 
-</p>
-<a href="https://shorter-url-fe.onrender.com/" target="_blank"><strong>View project &rarr;</strong></a>
-</td>
-<td width="50%" valign="top">
 <h3>GaryPixel Tech</h3>
 <p>Landing page for contact of consultancy GaryPixel Tech</p>
 <p>
