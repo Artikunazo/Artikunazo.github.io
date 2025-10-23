@@ -34,12 +34,12 @@ My focus is on developing innovative and scalable solutions, optimizing performa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" alt="RxJS" width="60" height="60" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/ngrx/platform/main/projects/ngrx.io/src/assets/images/repo-logos/logo.svg" alt="NGRX" width="60" height="60" style="margin: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ngrx/ngrx-plain.svg" alt="NGRX" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Springboot" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="60" height="60" style="margin: 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original-wordmark.svg" alt="Astro" width="60" height="60" style="margin: 10px;" />
 </p>
 
@@ -73,7 +73,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" alt="RxJS" width="30" height="30" />
     &nbsp;
-    <img src="https://raw.githubusercontent.com/ngrx/platform/main/projects/ngrx.io/src/assets/images/repo-logos/logo.svg" alt="NGRX" width="30" height="30" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ngrx/ngrx-plain.svg" alt="NGRX" width="30" height="30" />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
     &nbsp;
@@ -85,7 +85,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
     &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="30" height="30" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30" height="30" />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/primeng/primeng-plain.svg" alt="Tailwind" width="30" height="30" />
   </p>
@@ -121,7 +121,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
     &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="30" height="30" />
+    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30" height="30" />
     &nbsp;
     <a href="https://github.com/Artikunazo/dummy-bank" target="_blank">
       <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
@@ -163,9 +163,4 @@ My focus is on developing innovative and scalable solutions, optimizing performa
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Artikunazo&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="Artikunazo's GitHub Stats" />
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artikunazo&layout=compact&locale=en&theme=dark" alt="Artikunazo's Top Languages" />
-</p>
-
-
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/7826568?v=4" alt="Foto de perfil" width="150" style="border-radius:50%;">
 </p>
