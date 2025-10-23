@@ -140,7 +140,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
 
 ---
 
-<details>
+<details open>
   <summary>
     <h3>
       <b>3. GaryPixel Tech</b>
