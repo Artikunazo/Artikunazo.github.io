@@ -1,7 +1,9 @@
 <style>
   body {
-    background-color: #0D1117;
+    background-color: #111827;
+    color: #F3F4F6; 
   }
+  
   .markdown-body h1 {
     display: none;
   }
