@@ -1,6 +1,6 @@
 <style>
   .markdown-body h1 {
-    text-align: center;
+    display: none;
   }
 </style>
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Artikunazo" target="_blank">
-    <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Code Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/arturocasasq/" target="_blank">
