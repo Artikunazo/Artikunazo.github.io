@@ -1,4 +1,7 @@
 <style>
+  body {
+    background-color: #0D1117;
+  }
   .markdown-body h1 {
     display: none;
   }
@@ -14,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/Artikunazo" target="_blank">
-    <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Code Portfolio" />
+    <img src="https://img.shields.io/badge/View_Code-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Code Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/arturocasasq/" target="_blank">
@@ -62,7 +65,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
     </a>
     &nbsp;
     <a href="https://github.com/Artikunazo/dashboard-kanban" target="_blank">
-      <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+      <img src="https://img.shields.io/badge/View_Code-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
   </p>
 
@@ -110,7 +113,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
     </a>
     &nbsp;
     <a href="https://github.com/Artikunazo/dummy-bank" target="_blank">
-      <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+      <img src="https://img.shields.io/badge/View_Code-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
   </p>
   
