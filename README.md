@@ -4,7 +4,7 @@
   }
 </style>
 
-<h1 align="center">
+<h1 align="center" style="display:block">
   Hello! I'm Arturo Casas 👋
 </h1>
 
