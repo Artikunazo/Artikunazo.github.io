@@ -13,10 +13,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://arturocasascu.dev" target="_blank">
+  <!-- <a href="https://arturocasascu.dev" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-arturocasascu.dev-blue?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Website" />
   </a>
-  &nbsp;
+  &nbsp; -->
   <a href="https://www.linkedin.com/in/arturocasasq/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
