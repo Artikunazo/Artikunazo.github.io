@@ -13,10 +13,10 @@
 </h3>
 
 <p align="center">
-  <!-- <a href="https://arturocasascu.dev" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-arturocasascu.dev-blue?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Website" />
+  <a href="https://github.com/Artikunazo" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Website" />
   </a>
-  &nbsp; -->
+  &nbsp;
   <a href="https://www.linkedin.com/in/arturocasasq/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -34,12 +34,12 @@ My focus is on developing innovative and scalable solutions, optimizing performa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" alt="RxJS" width="60" height="60" style="margin: 10px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ngrx/ngrx-plain.svg" alt="NGRX" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ngrx/ngrx-plain.svg" alt="NGRX" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Springboot" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" style="margin: 10px;" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="60" height="60" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind" width="60" height="60" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original-wordmark.svg" alt="Astro" width="60" height="60" style="margin: 10px;" />
 </p>
 
@@ -73,7 +73,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" alt="RxJS" width="30" height="30" />
     &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ngrx/ngrx-plain.svg" alt="NGRX" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ngrx/ngrx-plain.svg" alt="NGRX" width="30" height="30" />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
     &nbsp;
@@ -85,7 +85,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
     &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind" width="30" height="30" />
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/primeng/primeng-plain.svg" alt="Tailwind" width="30" height="30" />
   </p>
@@ -109,7 +109,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
       <img src="https://img.shields.io/badge/View_Demo-4A90E2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Live Demo" />
     </a>
     &nbsp;
-    <a href="[LINK_TO_DUMMYBANK_REPO]" target="_blank">
+    <a href="https://github.com/Artikunazo/dummy-bank" target="_blank">
       <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
     </a>
   </p>
@@ -121,7 +121,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
     &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind" width="30" height="30" />
     &nbsp;
     <a href="https://github.com/Artikunazo/dummy-bank" target="_blank">
       <img src="https://img.shields.io/badge/View_Code-333?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
@@ -161,6 +161,5 @@ My focus is on developing innovative and scalable solutions, optimizing performa
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Artikunazo&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="Artikunazo's GitHub Stats" />
-  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artikunazo&layout=compact&locale=en&theme=dark" alt="Artikunazo's Top Languages" />
 </p>
