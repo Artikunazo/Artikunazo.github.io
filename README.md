@@ -3,6 +3,10 @@
     background-color: #111827;
     color: #F3F4F6; 
   }
+
+  p {
+    color: #9CA3AF;
+  }
   
   .markdown-body h1 {
     display: none;
