@@ -162,7 +162,7 @@ My focus is on developing innovative and scalable solutions, optimizing performa
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="30" height="30" />
     &nbsp;
-    <img src="httpst://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30" />
   </p>
 </details>
 
